@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aabidumer
-- 👀 I’m a Full Stack Developer
+- 👀 I’m a Data Engineer
 - 🌱 I’m currently learning to improve my stack
 - 📫 Reach me at aabid.umer@outlook.com
 
